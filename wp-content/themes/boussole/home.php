@@ -4,7 +4,7 @@ Template Name: home */
 get_header();
 ?>
 
-<section class="hero-section">
+<section id="hero-section" class="hero-section">
 
     <div class="hero-content">
         <h1 class="text-h1"><?php the_field('heading-one') ?></h1>
