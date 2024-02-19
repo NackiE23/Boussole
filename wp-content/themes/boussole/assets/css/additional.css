@@ -117,3 +117,9 @@
         margin-bottom: 6px;
     }
 }
+
+@media (max-height: 734px) {
+    #full-page-menu .inner {
+        justify-content: normal;
+    }
+}
