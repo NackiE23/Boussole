@@ -20,7 +20,7 @@
             <div class="header-flex">
                 <nav class="header-nav">
 
-                    <?
+                    <?php
                     // отримуємо посилання на лого
                     $custom_logo__url = wp_get_attachment_image_src(get_theme_mod('custom_logo'), 'full'); ?>
 
